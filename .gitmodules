@@ -1,0 +1,3 @@
+[submodule "url-shortener-frontend"]
+	path = url-shortener-frontend
+	url = https://github.com/manal-herradi/url-shortener-frontend.git
